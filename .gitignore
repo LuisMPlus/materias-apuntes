@@ -1,0 +1,15 @@
+# Obsidian - archivos temporales/locales
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Datos locales de plugins que pueden contener estado/cache
+.obsidian/plugins/*/data.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales
+*.tmp
+*.temp
