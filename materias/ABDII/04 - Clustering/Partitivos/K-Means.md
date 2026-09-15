@@ -29,7 +29,7 @@ K-Means es un método de agrupamiento que tiene como objetivo la partición de u
 - Los puntos se asignan al cluster cuyo centroide esté más cerca (utilizando cualquier métrica de distancia).
 - Iterativamente, se van actualizando los centroides en función de las asignaciones de puntos a clusters, hasta que los centroides dejen de cambiar.
 
-![[Pasted image 20260913220421.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260913220421.png)
 
 ---
 
@@ -54,7 +54,7 @@ Es una forma precisa y sencilla (tal como lo menciona Joaquín Rodríguez en [RP
 
 A continuación se muestra un ejemplo del mismo:
 
-![[Pasted image 20260913221059.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260913221059.png)
 
 > De la gráfica se observa que con un **$K = 4$** la reducción en la suma total de cuadrados internos parece estabilizarse, indicando que ese número es una opción apropiada ("el punto de inflexión o codo").
 

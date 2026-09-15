@@ -33,4 +33,4 @@ Para cualquier distribución normal:
 - Alrededor del **$95.5\%$** de los datos caen dentro del intervalo $[\mu - 2\sigma, \mu + 2\sigma]$.
 - Alrededor del **$99.7\%$** de los datos caen dentro del intervalo $[\mu - 3\sigma, \mu + 3\sigma]$.
 
-![[Pasted image 20260907094421.png|646]]
+![646](../../../../../Adjuntos/Pasted%20image%2020260907094421.png)

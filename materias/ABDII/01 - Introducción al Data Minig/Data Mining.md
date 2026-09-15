@@ -40,9 +40,9 @@ No compiten entre sí; trabajan en conjunto. El **Big Data** provee la plataform
 - IA: es un campo que se enfoca en el desarrollo de sistemas que pueden realizar tareas que habitualmente REQUIEREN LA INTELIGENCIA HUMANA, como el APRENDIZAJE, la RESOLUCIÓN DE PROBLEMAS, la TOMA DE DECISIONES y OTROS. La IA se centra en la creación de sistemas que PUEDEN APRENDER, ADAPTARSE Y MEJORAR CON EL TIEMPO, utilizando técnicas como el APRENDIZAJE AUTOMÁTICO, el PROCESAMIENTO DEL LENGUAJE NATURAL y la VISIÓN POR COMPUTADORA.
 
 ## Técnicas de minería de datos
-![[Pasted image 20260912123450.png]]
+![](../../../Adjuntos/Pasted%20image%2020260912123450.png)
 ### Clasificación
-![[Pasted image 20260912123540.png]]
+![](../../../Adjuntos/Pasted%20image%2020260912123540.png)
 ## Clasificación de problemas
 - Descriptivos: Buscan encontrar una descripción de los datos en estudio
 - Predictivos: Buscan obtener un modelo que en un futuro pueda ser aplicado para predecir comportamiento

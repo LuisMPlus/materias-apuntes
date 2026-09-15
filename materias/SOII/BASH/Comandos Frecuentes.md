@@ -17,7 +17,7 @@ Referencia rápida de comandos de Bash agrupados por áreas de administración y
 | Copiar archivo o carpeta | `cp archivo.txt destino.txt` / `cp -r dir1/ dir2/` |
 | Mover o renombrar | `mv viejo.txt nuevo.txt` |
 | Borrar archivo o carpeta | `rm archivo.txt` / `rm -rf carpeta/` |
-| Buscar archivos por nombre | `find . -name "*.log"` |
+| Buscar archivos por nombre | `find . -name "*.log"` — [[find\|Manual Find]] |
 | Crear enlace simbólico | `ln -s /ruta/archivo enlace.sh` |
 
 ---
@@ -30,7 +30,7 @@ Referencia rápida de comandos de Bash agrupados por áreas de administración y
 | Ver archivo paginado | `less archivo.txt` |
 | Primeras / Últimas N líneas | `head -n 20 archivo.txt` / `tail -n 20 archivo.txt` |
 | Monitorear log en vivo | `tail -f /var/log/syslog` |
-| Buscar texto con patrón | `grep -ri "texto_a_buscar" carpeta/` |
+| Buscar texto con patrón | `grep -ri "patron" carpeta/` — [[GREP\|Manual Grep]] |
 | Contar líneas de un archivo | `wc -l archivo.txt` |
 | Ordenar líneas | `sort archivo.txt` (o `sort -n` numérico) |
 | Filtrar duplicados | `sort archivo.txt | uniq` |

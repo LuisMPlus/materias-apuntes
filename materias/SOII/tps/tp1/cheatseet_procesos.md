@@ -47,7 +47,7 @@
 |             |                                                                                     |                      |
 el proceso con pid 0 es init (booteo)
 #### Ejemplo con sleep 400 &
-![[Pasted image 20260903185156.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260903185156.png)
 
 ```bash
 grep -E "^(Pid|PPid|Name)" /proc/$$/status

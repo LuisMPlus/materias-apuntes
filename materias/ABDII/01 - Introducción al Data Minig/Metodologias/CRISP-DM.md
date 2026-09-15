@@ -1,5 +1,5 @@
 # CRISP-DM (CRoss-Industry Standard Process for Data Mining)
-![[Pasted image 20260912131724.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260912131724.png)
 Actualmente es la **metodología estándar y abierta más utilizada** para guiar proyectos de minería de datos, análisis avanzado y ciencia de datos
 de proyectos de Minería de Datos.
 Consta de 6 etapas o fases, las cuales van iterando y adaptándose al resultado final que es en sí la toma de decisiones:

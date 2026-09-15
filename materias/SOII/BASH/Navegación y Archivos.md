@@ -207,7 +207,7 @@ rm -i *.log
 
 ## 5. Búsqueda de Archivos: `find`
 
-El comando `find` busca archivos y directorios en tiempo real en función de criterios como nombre, tipo, tamaño o fecha.
+El comando `find` busca archivos y directorios en tiempo real en función de criterios como nombre, tipo, tamaño o fecha. Para la guía exhaustiva con todas las pruebas, operadores lógicos y acciones avanzadas, consulta el **[[find|Manual Completo y de Referencia de GNU Find]]**.
 
 ```bash
 # Buscar archivos por nombre exacto en el directorio actual y subcarpetas

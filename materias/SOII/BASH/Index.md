@@ -66,11 +66,11 @@ A continuación se organizan los apuntes y comandos agrupados por su temática e
 - Sistema de archivos jerárquico de Linux y rutas absolutas vs relativas.
 - Comandos de navegación e inspección: `pwd`, `cd`, `ls` (con parámetros), `tree`.
 - Creación, copia, movimiento y eliminación: `mkdir -p`, `touch`, `cp -r`, `mv`, `rm -rf`.
-- Búsqueda avanzada de archivos con `find` y enlaces simbólicos/duros (`ln -s`).
+- Búsqueda avanzada de archivos con `find` — véase el apunte dedicado **[[find|Manual Completo de GNU Find]]** — y enlaces simbólicos/duros (`ln -s`).
 
 ### 📝 [[Procesamiento de Texto]]
 - Visualización: `cat`, `tac`, `head`, `tail` (y monitoreo en vivo con `tail -f`), paginadores `less`/`more`.
-- Filtrado y búsqueda por patrones: `grep` (recursivo, insensible, invertido y regex).
+- Filtrado y búsqueda por patrones: `grep` (recursivo, insensible, invertido y regex) — véase el apunte dedicado **[[grep|Manual Completo de GNU Grep]]**.
 - Estadísticas y ordenamiento: `wc`, `sort`, `uniq`, `cut`, `tr`.
 - Manipulación avanzada con expresiones regulares: editores de flujo `sed` y lenguaje `awk`.
 - Editores de terminal: `nano` y `vim`.

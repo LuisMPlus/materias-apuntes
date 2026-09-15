@@ -8,7 +8,7 @@ Las **medidas de forma** y las **acotaciones de concentración** complementan a 
 
 La **asimetría** evalúa el grado en que los datos se distribuyen equilibradamente a ambos lados de su centro de gravedad (la media aritmética).
 
-![[Pasted image 20260831114614.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260831114614.png)
 
 
 ---
@@ -45,7 +45,7 @@ $$G_1 = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left( \frac{x_i - \bar{x}}{s} \righ
 - **$As= 0$:** Perfecta simetría.
 - **$As > 0$:** Asimetría positiva (cola derecha prolongada).
 - **$As < 0$:** Asimetría negativa (cola izquierda prolongada).
-![[Pasted image 20260831115533.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260831115533.png)
 - **Escala de magnitud:**
   - $|\gamma_1| < 0.5$: Distribución aproximadamente simétrica.
   - $0.5 \le |\gamma_1| \le 1.0$: Asimetría moderada.
@@ -57,7 +57,7 @@ $$G_1 = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left( \frac{x_i - \bar{x}}{s} \righ
 
 La **curtosis** (o *kurtosis*) cuantifica la **concentración de datos en el centro** (la agudeza del pico) y el **peso / grosor de las colas** en comparación directa con la distribución normal estándar.
 
-![[Pasted image 20260831115710.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260831115710.png)
 
 ---
 

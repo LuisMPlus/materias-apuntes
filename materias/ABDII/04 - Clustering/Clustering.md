@@ -9,7 +9,7 @@ tags:
 ## 1. Definición
 El clustering o análisis de agrupamiento es una técnica de aprendizaje automático en la cual consiste en agrupar un conjunto de objetos de tal manera que los miembros del mismo grupo sean lo más similares posibles.
 
-![[Pasted image 20260913202156.png]]
+![](../../../Adjuntos/Pasted%20image%2020260913202156.png)
 
 ### 1.2 Características principales
 - **Técnica de Aprendizaje automático** (*machine learning*): rama de la IA que permite a las computadoras aprender a partir de datos sin necesidad de ser programadas con reglas explícitas.
@@ -41,7 +41,7 @@ $$distancia(X,Y) = \sqrt{\sum_{i=1}^{n}(x_i-y_i)^2}$$
 	- Distancia para dos puntos en dos dimensiones:
 		$$distancia=\sqrt{({x_2-x_1})^2+({y_2-y_1})^2}$$
 
-![[Pasted image 20260913205540.png]]
+![](../../../Adjuntos/Pasted%20image%2020260913205540.png)
 
 ### 2.2 Métricas del agrupamiento obtenido
 Hay varias medidas de distancia, por eso lo que debemos buscar es un buen método de agrupamiento que produzca grupos de **alta calidad** donde se tiene que cumplir:
@@ -52,7 +52,7 @@ Hay varias medidas de distancia, por eso lo que debemos buscar es un buen métod
 	- Alta separación.
 	- Se busca **maximizar** la distancia inter-clusters.
 
-![[Pasted image 20260913202836.png]]
+![](../../../Adjuntos/Pasted%20image%2020260913202836.png)
 
 ---
 

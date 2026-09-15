@@ -28,11 +28,11 @@ Los demás caracteres divididos en: usuario, grupo y otros
 |  **Write**  |   `w`   |         **2**          | Permite modificar o sobreescribir el archivo     | Permite crear, borrar o renombrar archivos dentro |
 | **Execute** |   `x`   |         **1**          | Permite ejecutar el archivo como programa/script | Permite acceder/entrar a la carpeta (`cd`)        |
 | **Ninguno** |   `-`   |         **0**          | Sin ningún permiso                               | Sin ningún permiso                                |
-![[Pasted image 20260827100924.png]]
-![[Pasted image 20260827094622.png]]
+![](../../../Adjuntos/Pasted%20image%2020260827100924.png)
+![](../../../Adjuntos/Pasted%20image%2020260827094622.png)
 
 En este ejemplo el tp0 de SOII
-![[Pasted image 20260827094206.png]]
+![](../../../Adjuntos/Pasted%20image%2020260827094206.png)
 Para el archivo `test.sh` separando los caracteres
 tipo de archivo[ - ] usuario[ rw-] grupo[ r-- ] otro[ r-- ]
 
@@ -83,7 +83,7 @@ chmod u=rw,g=r archivo.txt
 
 Para el ejemplo:
 ahora `test.sh` tiene permiso de ejecución para usuario
-![[Pasted image 20260827101821.png]]
+![](../../../Adjuntos/Pasted%20image%2020260827101821.png)
 
 ---
 

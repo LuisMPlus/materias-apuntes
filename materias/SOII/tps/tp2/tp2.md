@@ -4,14 +4,14 @@
 `vmstat -s`: 
 
 `$$`: variable que contiene el pid del proceso bash
-![[Pasted image 20260908192134.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260908192134.png)
 vmStk: Memoria utilizada en la pila de llamadas(stack)
 vmSize:
 VmExe: Tamaño del código binario que tiene el ejecutable
-![[Pasted image 20260908192346.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260908192346.png)
 
 
 BSS(Block Start by Symbol): Segmento de la memoria virtual de un proceso que almacena las variables globales y estáticas que no han sido inicializadas explícitamente con un valor por el código
-![[Pasted image 20260908221047.png]]
-![[Pasted image 20260908221129.png]]
-![[Pasted image 20260903210305.png]]![[Pasted image 20260903210331.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260908221047.png)
+![](../../../../Adjuntos/Pasted%20image%2020260908221129.png)
+![](../../../../Adjuntos/Pasted%20image%2020260903210305.png)![](../../../../Adjuntos/Pasted%20image%2020260903210331.png)

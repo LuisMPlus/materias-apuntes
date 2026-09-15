@@ -6,7 +6,7 @@ Es el proceso no trivial de identificar patrones válidos, novedosos, potencialm
 - Comprensible: para los usuarios que hagan uso de ella.
 
 ## Fases
-![[Pasted image 20260912124817.png]]
+![](../../../Adjuntos/Pasted%20image%2020260912124817.png)
 Según Timaran Pereria et al. (2014):
 ### 1 Selección
 Se identifican el conjunto de datos de trabajo y se define la muestra o las variables relevantes a partir de una o varias fuentes.
@@ -23,4 +23,4 @@ Herramientas:
 ### 5 Interpretación / Evaluación
 Se preparan y reducen los datos mediante proyecciones o conversiones para que adopten la estructura adecuada para los algoritmos.
 
-![[Pasted image 20260912125520.png]]
+![](../../../Adjuntos/Pasted%20image%2020260912125520.png)

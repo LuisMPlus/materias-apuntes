@@ -21,7 +21,7 @@ El algoritmo [[K-Means]] es sensible a la presencia de **valores atípicos (*out
 En lugar de utilizar centroides (medias aritméticas calculadas que pueden no corresponder a ningún punto real y se distorsionan con facilidad), **emplea medoides**:
 > Toma como referencia un **objeto ya existente en el cluster** (idealmente, el objeto más central del cluster, con la menor distancia promedio al resto de los elementos del grupo).
 
-![[Pasted image 20260913221915.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260913221915.png)
 
 ---
 ## 3. Algoritmos y Variantes de K-Medoids

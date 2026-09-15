@@ -51,7 +51,7 @@ stateDiagram-v2
     Staged --> Modified: git restore --staged
     Modified --> Unmodified: git restore
 ```
-![[Pasted image 20260827080657.png]]
+![](../Adjuntos/Pasted%20image%2020260827080657.png)
 - **Untracked (Sin seguimiento):** Archivos que existen en el directorio de trabajo pero no forman parte del repositorio ni del staging area.
 - **Unmodified (Sin modificaciones):** El archivo está en el repositorio y no ha sufrido cambios respecto al último commit (`HEAD`).
 - **Modified (Modificado):** Has modificado el archivo en tu directorio de trabajo, pero aún no lo has preparado para el commit.

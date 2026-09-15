@@ -18,7 +18,7 @@ Es una técnica de partición de clustering que se enfoca en dividir $n$ observa
 
 A diferencia de los algoritmos [[Clustering Jerárquico|jerárquicos]] (que producen un dendrograma con múltiples niveles de agrupación), en el clustering partitivo se obtiene **una única partición** de los datos.
 
-![[Pasted image 20260913220208.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260913220208.png)
 
 ---
 

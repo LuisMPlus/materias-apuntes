@@ -9,7 +9,7 @@ El **Subsistema de Windows para Linux (WSL)** es una capa de compatibilidad desa
 WSL permite a desarrolladores y administradores de sistemas utilizar herramientas de línea de comandos de Linux, utilidades (`grep`, `sed`, `awk`), lenguajes (`Python`, `C/C++`, `NodeJS`, `Rust`), servidores y flujos de trabajo basados en Unix directamente en Windows, compartiendo archivos e interactuando entre ambos entornos.
 
 ### Evolución: WSL 1 vs. WSL 2
-![[Pasted image 20260827064410.png]]
+![](../../Adjuntos/Pasted%20image%2020260827064410.png)
 
 | Característica               | WSL 1                                                                     | WSL 2                                                           |
 | :--------------------------- | :------------------------------------------------------------------------ | :-------------------------------------------------------------- |

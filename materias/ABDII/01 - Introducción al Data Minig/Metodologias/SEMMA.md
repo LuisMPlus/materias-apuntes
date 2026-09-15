@@ -1,2 +1,2 @@
-![[Pasted image 20260912131635.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260912131635.png)
 Sin entrar en la discusión sobre si SEMMA es o no una metodología podemos afirmar que SEMMA tiene una perspectiva más amplia respecto a los objetivos empresariales del proyecto, es más completa y flexible en cuanto a su relación con herramientas comerciales. Se enfoca en características técnicas del desarrollo del proceso, es muy limitada en cuanto a las herramientas ya que se encuentra muy ligada a productos SAS

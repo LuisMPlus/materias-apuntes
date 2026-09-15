@@ -8,7 +8,7 @@ tags:
   - "#FaseKDD"
 ---
 git## Segunda Fase del KDD: Preparación de los datos
-![[Pasted image 20260906151324.png|562]]
+![562](../../../Adjuntos/Pasted%20image%2020260906151324.png)
 - Fase más tardía
 
 ## Inconvenientes que pueden tener los dataset de origen
@@ -22,10 +22,10 @@ git## Segunda Fase del KDD: Preparación de los datos
 ### Valores atípicos u outliers
 No se ajustan al comportamiento general de los datos. Estos datos anómalos en algunos algoritmos se descartan o ignoran al considerarlos como ruido.
 No siempre es conveniente eliminarlos puesto que pueden presentar situaciones excepcionales
-![[Pasted image 20260907123145.png]]
+![](../../../Adjuntos/Pasted%20image%2020260907123145.png)
 
 ### missing values
-![[Pasted image 20260907123513.png]]
+![](../../../Adjuntos/Pasted%20image%2020260907123513.png)
 Como proceder:
 - Ignorar la tupla o registro
 - Rellenar la tupla manualmente

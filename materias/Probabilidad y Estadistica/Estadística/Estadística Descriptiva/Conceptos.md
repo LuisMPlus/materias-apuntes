@@ -224,7 +224,7 @@ Es la **raíz cuadrada positiva** de la varianza. Expresa la dispersión en las 
 | - **Poblacional:** | $$\sigma = \sqrt{\sigma^2} = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2}$$ |
 | ------------------ | ------------------------------------------------------------------------------ |
 | - **Muestral:**    | $$s = \sqrt{s^2} = \sqrt{\frac{1}{n - 1} \sum_{i=1}^{n} (x_i - \bar{x})^2}$$   |
-![[Pasted image 20260831113435.png]]
+![](../../../../Adjuntos/Pasted%20image%2020260831113435.png)
 #### Interpretación Práctica:
 - Un valor de $s$ cercano a $0$ indica que los datos están fuertemente agrupados alrededor de la media (alta precisión/homogeneidad).
 - Un valor de $s$ grande indica gran dispersión e heterogeneidad en las mediciones.

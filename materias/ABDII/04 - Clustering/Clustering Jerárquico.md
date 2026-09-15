@@ -18,7 +18,7 @@ A partir del dendrograma se pueden obtener distintas particiones (estructuras de
 
 - [Dendrograma - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Dendrograma)
 
-![[Pasted image 20260913212848.png]]
+![](../../../Adjuntos/Pasted%20image%2020260913212848.png)
 
 ---
 
@@ -31,14 +31,14 @@ Se agrupa desde los elementos individuales:
 3. Estas fusiones de clústers se siguen produciendo de forma sucesiva produciendo una jerarquía de resultados de clustering.
 4. Al final del proceso solo queda un único clúster que aglutina todos los elementos.
 
-![[Pasted image 20260913213224.png]]
+![](../../../Adjuntos/Pasted%20image%2020260913213224.png)
 
 ### 2.2 Tipo Divisible / Divisivo (Top-Down)
 Empieza a la inversa:
 1. Se parte desde un único clúster que aglomera todos los datos.
 2. Sucesivamente se va dividiendo en clústers más pequeños hasta que cada dato forma su propio clúster o se alcanza un criterio de parada.
 
-![[Pasted image 20260913213232.png]]
+![](../../../Adjuntos/Pasted%20image%2020260913213232.png)
 
 ---
 
