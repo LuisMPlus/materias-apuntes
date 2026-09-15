@@ -13,3 +13,6 @@ desktop.ini
 # Temporales
 *.tmp
 *.temp
+
+#Links
+**/*[lL]inks.md
