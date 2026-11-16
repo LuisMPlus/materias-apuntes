@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d837d5b5fffa25c0","x":-1000,"y":340,"width":1304,"height":555,"type":"group","label":"Parte 2"},
+		{"id":"6d53869b14b38058","x":-480,"y":-220,"width":818,"height":488,"type":"group","label":"Parte 1"},
+		{"id":"639a409e6b6b5aa0","type":"text","text":"# SOA (Service Oriented Architecture)","x":-460,"y":-40,"width":390,"height":120},
+		{"id":"20002f8a715d7643","type":"text","text":"## Tecnologías","x":-390,"y":-200,"width":250,"height":60},
+		{"id":"f6bd6ac08eca5cf4","type":"text","text":"## Objetivos y beneficios","x":20,"y":-100,"width":298,"height":60},
+		{"id":"02aab4b293479e14","type":"text","text":"## 8 Principios","x":20,"y":-5,"width":250,"height":50},
+		{"id":"92bf6587859f98f7","type":"text","text":"## Ventajas","x":20,"y":80,"width":250,"height":50},
+		{"id":"c2947843cd519a71","type":"text","text":"## Desafíos","x":1,"y":188,"width":250,"height":60},
+		{"id":"ac8d66fc21905f50","type":"text","text":"### Stateless","x":-980,"y":765,"width":136,"height":60},
+		{"id":"3a4bc70043bd110b","type":"text","text":"### Métodos HTTP","x":-912,"y":775,"width":183,"height":50},
+		{"id":"d6b04b30926043c3","type":"text","text":"### OpenAPI \n(no obligagorio)","x":-671,"y":775,"width":182,"height":100},
+		{"id":"5ffad16a36cb5b2f","type":"text","text":"## REST","x":-912,"y":541,"width":250,"height":60},
+		{"id":"053e6d9b93634c78","type":"text","text":"## Web Services","x":-560,"y":360,"width":250,"height":60},
+		{"id":"aa229d8df1959178","type":"text","text":"## SOAP","x":-310,"y":541,"width":250,"height":60},
+		{"id":"48f3dbd1b088f4cb","type":"text","text":"## XML (estricto)","x":-420,"y":790,"width":250,"height":50},
+		{"id":"2ecf3262812012ee","type":"text","text":"### WSDL (estricto)","x":19,"y":541,"width":215,"height":60},
+		{"id":"220b43ce5bd1ac35","type":"text","text":"### XSD (XML Schema Definition)","x":-32,"y":420,"width":316,"height":50}
+	],
+	"edges":[
+		{"id":"49e4875079f32a7c","fromNode":"639a409e6b6b5aa0","fromSide":"top","toNode":"20002f8a715d7643","toSide":"bottom"},
+		{"id":"d10045b8aab1e8ca","fromNode":"639a409e6b6b5aa0","fromSide":"right","toNode":"f6bd6ac08eca5cf4","toSide":"left"},
+		{"id":"e6bb2a17a32f8c24","fromNode":"639a409e6b6b5aa0","fromSide":"right","toNode":"02aab4b293479e14","toSide":"left"},
+		{"id":"55379366e7f34495","fromNode":"639a409e6b6b5aa0","fromSide":"right","toNode":"92bf6587859f98f7","toSide":"left"},
+		{"id":"75a5dbed71337c88","fromNode":"639a409e6b6b5aa0","fromSide":"right","toNode":"c2947843cd519a71","toSide":"left"},
+		{"id":"503d135d6868132f","fromNode":"053e6d9b93634c78","fromSide":"bottom","toNode":"5ffad16a36cb5b2f","toSide":"top"},
+		{"id":"95e3c228ca1e5f84","fromNode":"053e6d9b93634c78","fromSide":"bottom","toNode":"aa229d8df1959178","toSide":"top"},
+		{"id":"361255974c73b0f8","fromNode":"5ffad16a36cb5b2f","fromSide":"bottom","toNode":"ac8d66fc21905f50","toSide":"top"},
+		{"id":"2b6d6fec83a1de43","fromNode":"5ffad16a36cb5b2f","fromSide":"bottom","toNode":"3a4bc70043bd110b","toSide":"top"},
+		{"id":"5430e7eec71e51a2","fromNode":"aa229d8df1959178","fromSide":"bottom","toNode":"48f3dbd1b088f4cb","toSide":"top"},
+		{"id":"a8e867cd4d7b0b57","fromNode":"5ffad16a36cb5b2f","fromSide":"bottom","toNode":"d6b04b30926043c3","toSide":"top"},
+		{"id":"f7b7c0726af5fc10","fromNode":"2ecf3262812012ee","fromSide":"left","toNode":"aa229d8df1959178","toSide":"right"},
+		{"id":"e3dc44cee820d762","fromNode":"220b43ce5bd1ac35","fromSide":"bottom","toNode":"2ecf3262812012ee","toSide":"top"}
+	]
+}

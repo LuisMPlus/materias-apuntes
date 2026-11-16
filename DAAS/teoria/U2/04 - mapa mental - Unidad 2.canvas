@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"3287b88ba3c8d223","type":"text","text":"# Arquitectura","x":-500,"y":-260,"width":250,"height":60},
+		{"id":"47f2eab4f4633565","type":"text","text":"## Multicapa","x":-160,"y":-40,"width":140,"height":50},
+		{"id":"a73599446f966507","type":"text","text":"## 2 Capas","x":-445,"y":-40,"width":140,"height":50},
+		{"id":"fa57df522f496d24","type":"text","text":"## 1 Capa (monlito)","x":-760,"y":-40,"width":220,"height":50},
+		{"id":"9e60a417465d171a","type":"file","file":"Adjuntos/Pasted image 20261115114210.png","x":-552,"y":100,"width":362,"height":191},
+		{"id":"4ac43dc76f86b94b","type":"file","file":"Adjuntos/Pasted image 20261115114235.png","x":-120,"y":100,"width":320,"height":191},
+		{"id":"000a204f9e17cb31","type":"file","file":"Adjuntos/Pasted image 20261115114342.png","x":-1000,"y":127,"width":400,"height":138},
+		{"id":"b96f437d01bee537","type":"text","text":"# Patrón de diseño","x":-592,"y":720,"width":221,"height":60},
+		{"id":"dd0085c8587682a0","type":"text","text":"## DAO","x":-120,"y":800,"width":250,"height":60},
+		{"id":"99c2ebef2cca5031","type":"text","text":"## MVC","x":-315,"y":488,"width":250,"height":60},
+		{"id":"5337c83f74157314","type":"text","text":"## Application Controller","x":-660,"y":488,"width":258,"height":60},
+		{"id":"b7eed7943a01827c","type":"text","text":"## Transfer","x":-120,"y":660,"width":250,"height":60},
+		{"id":"638ab4c8e5484f5f","type":"text","text":"## Front Controller","x":-925,"y":488,"width":250,"height":60},
+		{"id":"374aa80ed9f786d7","type":"text","text":"## Business Delegate","x":-280,"y":980,"width":250,"height":60},
+		{"id":"5d1d0ccae73bb326","type":"text","text":"## Servicio de aplicación","x":-590,"y":999,"width":250,"height":60},
+		{"id":"b309bf91e4ee125b","type":"text","text":"## Business Object","x":-910,"y":1010,"width":250,"height":60},
+		{"id":"2636f0f6c2cd6d74","type":"text","text":"## Almacén del dominio","x":-1050,"y":720,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a6a930871c1fceb2","fromNode":"3287b88ba3c8d223","fromSide":"bottom","toNode":"fa57df522f496d24","toSide":"top"},
+		{"id":"bbebdbac3e95c64c","fromNode":"3287b88ba3c8d223","fromSide":"bottom","toNode":"a73599446f966507","toSide":"top"},
+		{"id":"49dadc73e310ca62","fromNode":"3287b88ba3c8d223","fromSide":"bottom","toNode":"47f2eab4f4633565","toSide":"top"},
+		{"id":"35cb41f32a6eb17a","fromNode":"a73599446f966507","fromSide":"bottom","toNode":"9e60a417465d171a","toSide":"top"},
+		{"id":"f813de2c109a509b","fromNode":"47f2eab4f4633565","fromSide":"bottom","toNode":"4ac43dc76f86b94b","toSide":"top"},
+		{"id":"ac7f172190fb4153","fromNode":"fa57df522f496d24","fromSide":"bottom","toNode":"000a204f9e17cb31","toSide":"top"},
+		{"id":"14e846df6b9df5db","fromNode":"b96f437d01bee537","fromSide":"top","toNode":"5337c83f74157314","toSide":"bottom"},
+		{"id":"a43c1e924d627478","fromNode":"b96f437d01bee537","fromSide":"right","toNode":"b7eed7943a01827c","toSide":"left"},
+		{"id":"282bd27ab6bc5f40","fromNode":"b96f437d01bee537","fromSide":"right","toNode":"dd0085c8587682a0","toSide":"left"},
+		{"id":"cd80cd16c4359843","fromNode":"b96f437d01bee537","fromSide":"top","toNode":"638ab4c8e5484f5f","toSide":"bottom"},
+		{"id":"824b0cb9c3b72339","fromNode":"b96f437d01bee537","fromSide":"top","toNode":"99c2ebef2cca5031","toSide":"bottom"},
+		{"id":"7359e9275819b87e","fromNode":"b96f437d01bee537","fromSide":"bottom","toNode":"374aa80ed9f786d7","toSide":"top"},
+		{"id":"5b07be00b023bfe6","fromNode":"b96f437d01bee537","fromSide":"bottom","toNode":"5d1d0ccae73bb326","toSide":"top"},
+		{"id":"e5df1638cef3a253","fromNode":"b96f437d01bee537","fromSide":"bottom","toNode":"b309bf91e4ee125b","toSide":"top"},
+		{"id":"3446c5ec7ac83391","fromNode":"b96f437d01bee537","fromSide":"left","toNode":"2636f0f6c2cd6d74","toSide":"right"}
+	]
+}
